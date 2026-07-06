@@ -1,6 +1,6 @@
 # 示例资产说明
 
-- `00-xiaoning-reference.png`：小柠 IP 设定图，用于低频视觉校准。
+- `00-xiaoning-reference.png`：向天歌 IP 设定图，用于低频视觉校准。
 - `01-product-manager-prototype-review.png`：产品经理场景，覆盖正面角色、画原型、需求评审、团队沟通。
 - `02-programmer-coding-debug-coffee.png`：程序员场景，覆盖侧面坐姿、写代码、调试、屏幕、咖啡。
 - `03-qa-tester-bug-testcase-defect.png`：测试人员场景，覆盖找 bug、测试用例、提交缺陷、核心动作。
